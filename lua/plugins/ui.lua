@@ -83,7 +83,7 @@ return
         event = "UIEnter",
         opts = {
             options = {
-                theme = "catppuccin",
+                theme = "catppuccin-macchiato",
             },
             sections = {
                 lualine_x = {
