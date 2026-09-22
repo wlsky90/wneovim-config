@@ -34,6 +34,6 @@ require("lazy").setup({
         notify = false, -- get a notification when changes are found
     },
     rocks = {
-        hererocks = true, -- you should enable this to get hererocks support
+        enabled = false, -- no plugin in this config needs luarocks
     },
 })

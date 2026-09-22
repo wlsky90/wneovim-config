@@ -84,7 +84,6 @@
 | [nmac427/guess-indent.nvim](https://github.com/nmac427/guess-indent.nvim) | A plugin for guessing indentation |
 | [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) | A screenkey plugin |
 | [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) | A statusline for Neovim |
-| [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) | A note-taking plugin |
 | [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) | A DAP extension for Telescope |
 | [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) | A frecency extension for Telescope |
 | [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) | An FZF extension for Telescope |
